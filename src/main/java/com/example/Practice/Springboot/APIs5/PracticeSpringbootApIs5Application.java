@@ -8,6 +8,9 @@ public class PracticeSpringbootApIs5Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PracticeSpringbootApIs5Application.class, args);
+
+		UpdateDemo demo = new UpdateDemo();
+		demo.updateStudent();
 	}
 
 }

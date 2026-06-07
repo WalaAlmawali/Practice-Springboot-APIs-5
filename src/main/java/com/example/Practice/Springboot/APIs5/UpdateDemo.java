@@ -4,7 +4,7 @@ public class UpdateDemo {
 
     public void updateStudent(){
 
-        String currentName = "Walaa";
+        String currentName = "Sara";
         String updatedName = "Sara";
         boolean updateStatus = false;
 
